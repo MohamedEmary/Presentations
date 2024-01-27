@@ -1,7 +1,7 @@
 ---
 marp: true
-footer: Testing Marp Markdown Presentations
-title: Testing Marp Markdown Presentations
+footer: Marp Markdown Presentations
+title: Marp Markdown Presentations
 author: Mohamed Emary
 lang: en
 paginate: true
@@ -14,13 +14,13 @@ _paginate: skip
 _class: slide-one
 -->
 
-# Testing Marp Markdown Presentations
+# Marp Markdown Presentations
 
-Mohamed Emary
+**Mohamed Emary**
 
-<mohamed21074@fci.bu.edu.eg>
+*<mohamed21074@fci.bu.edu.eg>*
 
-CS Student @BFCAI
+*CS Student @BFCAI*
 
 ---
 
