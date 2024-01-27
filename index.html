@@ -2,12 +2,73 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Index Page</title>
+    <title>Presentations Index</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    />
+    <style>
+      /*  I May make a separate styling page later */
+      .header {
+        color: #6c757d;
+        font-size: 2.5em;
+        font-weight: normal;
+      }
+      .list-group-item {
+        font-size: larger;
+      }
+    </style>
   </head>
   <body>
-    <h1>Index Page</h1>
-    <ol>
-      <li><a href="test/test-slide.html">Test Page</a></li>
-    </ol>
+    <div class="d-flex flex-column min-vh-100 justify-content-center">
+      <div class="container text-center">
+        <h1 class="header mb-5">Mohamed Emary Presentations Index</h1>
+        <div class="list-group">
+          <button
+            type="button"
+            class="list-group-item list-group-item-action"
+            data-toggle="modal"
+            data-target="#folder1Modal"
+          >
+            Test Slides
+          </button>
+          <!-- Add more folders here -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal for Folder 1 -->
+    <div
+      class="modal fade"
+      id="folder1Modal"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="folder1ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="folder1ModalLabel">Test Slides</h5>
+            <button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <ol>
+              <li><a href="test/test-slide.html">Test Slide</a></li>
+            </ol>
+            <!-- Add more links here -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
   </body>
 </html>
