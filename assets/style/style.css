@@ -32,3 +32,9 @@ h5 {
 footer {
   font-size: large;
 }
+
+@media (max-width: 576px) {
+  .header {
+    font-size: 2rem;
+  }
+}
