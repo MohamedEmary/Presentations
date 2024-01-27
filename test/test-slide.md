@@ -24,7 +24,7 @@ CS Student @BFCAI
 
 ---
 
-## Agenda
+# Agenda
 
 1. Code Blocks
 2. Lists
