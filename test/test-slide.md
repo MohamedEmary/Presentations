@@ -6,6 +6,7 @@ author: Mohamed Emary
 lang: en
 paginate: true
 transition: coverflow
+math: katex
 _paginate: skip
 ---
 
@@ -369,9 +370,9 @@ Library -- Member: has
 
 ---
 
-* <i class="fa fa-amazon"></i> Amazon
-* <i class="fa fa-cc-visa"></i> Visa
-* <i class="fa fa-cc-mastercard"></i> Mastercard
+* <i class="fab fa-amazon"></i> Amazon
+* <i class="fab fa-cc-visa"></i> Visa
+* <i class="fab fa-cc-mastercard"></i> Mastercard
 
 ---
 
