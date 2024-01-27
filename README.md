@@ -1,2 +1,3 @@
 # Presentations
-A repo where i put all my presentations.
+
+A repo where i add all my presentations made using [marp](https://marp.app/).
