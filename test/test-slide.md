@@ -92,18 +92,16 @@ $$
 $$
 
 ---
-<!-- _backgroundColor: #dfdfdf 
--->
 
 # Tables
 
-| Slide | Description        | Type      |
-| ----- | ------------------ | --------- |
-| 1     | Code Blocks        | Code      |
-| 2     | Lists              | Text      |
-| 3     | Math Equations     | Math      |
-| 4     | Images             | Text      |
-| 5     | Tables             | Text      |
+| Slide | Description            | Type      |
+| ----- | ---------------------- | --------- |
+| 1     | Code Blocks            | Code      |
+| 2     | Lists                  | Text      |
+| 3     | Math Equations         | Math      |
+| 4     | Images                 | Text      |
+| 5     | Tables                 | Text      |
 | 6     | Equations $\to e=mc^2$ | Equations |
 
 ---
@@ -181,21 +179,27 @@ Car "1" *-- "1" Owner : owns
 
 <div style="font-size: 3rem;">
 
-* <i class="fa fa-github"></i> Github
-* <i class="fa fa-reddit"></i> Reddit
-* <i class="fa fa-twitter"></i> Twitter
-* <i class="fa fa-facebook"></i> Facebook
+* <i class="fab fa-github"></i> Github
+* <i class="fab fa-reddit"></i> Reddit
+* <i class="fab fa-twitter"></i> Twitter
+* <i class="fab fa-facebook"></i> Facebook
 
 </div>
 
 ---
 
-* <i class="fa fa-amazon"></i> Amazon
-* <i class="fa fa-cc-visa"></i> Visa
-* <i class="fa fa-cc-mastercard"></i> Mastercard
-* <i class="fa fa-university"></i> university
-* <i class="fa fab fa-cc-paypal"></i> Amazon Pay
-* <i class="fa fa-opencart"></i> Open Cart
+* <i class="fab fa-amazon"></i> Amazon
+* <i class="fab fa-cc-visa"></i> Visa
+* <i class="fab fa-cc-mastercard"></i> Mastercard
+* <i class="fas fa-university"></i> university
+* <i class="fab fa-cc-paypal"></i> Amazon Pay
+* <i class="fab fa-opencart"></i> Open Cart
+
+---
+
+# Images
+
+![w:auto h:350](image/test-slide/screenshot.png)
 
 ---
 
