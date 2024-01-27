@@ -109,7 +109,7 @@ We use `1.` to create an ordinary numbered list.
 
 # Some Equations
 
-We can use complex $\LaTeX$ equations as below:
+We can use complex equations in $\LaTeX$ like below:
 
 $$
 \begin{align*}
@@ -125,14 +125,14 @@ $$
 
 We can also create tables as below:
 
-| Slide Number | Description                 |
-| ------------ | --------------------------- |
-| 3            | Code Blocks                 |
-| 4            | Lists                       |
-| 9            | Equations Like $\to e=mc^2$ |
-| 10           | Tables                      |
+| Slide Number | Content     |
+| ------------ | ----------- |
+| 3            | Code Blocks |
+| 4            | Lists       |
+| 9            | Equations   |
+| 10           | Tables      |
 
-If you want a complex table that can't be created using markdown, you can use HTML tables.
+If you want a complex table that can't be created using markdown, like a table with merged cells, you can use HTML.
 
 ---
 
