@@ -37,4 +37,16 @@ footer {
   .header {
     font-size: 1.5rem;
   }
+  footer {
+    font-size: large;
+  }
+  h5 {
+    font-size: x-large;
+  }
+  ol li {
+    font-size: large;
+  }
+  .list-group-item {
+    font-size: large;
+  }
 }
